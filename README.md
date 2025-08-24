@@ -1,4 +1,4 @@
-# Naval Tribute Webpage
+# Naval Webpage
 
 A simple and responsive webpage dedicated to Naval Ravikant — entrepreneur, philosopher, and angel investor — who has inspired millions through his thoughts on startups, wealth, happiness, and life philosophy.
 
